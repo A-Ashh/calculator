@@ -44,7 +44,7 @@ Error Handling: Display error messages for invalid inputs like dividing by zero.
 📫 Contact
 For suggestions or feedback, feel free to reach out!
 
-Email: aasthaagni2003@example.com
+Email: aasthaagni2003@gmail.com
 GitHub: @A-Ashh
 
 Feel free to customize this README to match your specific project details! 😊
