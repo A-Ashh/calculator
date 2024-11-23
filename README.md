@@ -20,10 +20,10 @@ JavaScript: Logic for handling calculations, input, and output.
 https://github.com/user-attachments/assets/f596a26c-911a-4407-9d97-f554f7dd0344
 
 📂 Project Structure
-├── index.html       # Main HTML file for the calculator
-├── style.css        # Styling for the calculator layout
-├── script.js        # JavaScript logic for calculations and interactivity
-└── assets/          # (Optional) Images or additional resources
+├── calculator.html       # Main HTML file for the calculator
+├── style.css             # Styling for the calculator layout
+├── script.js             # JavaScript logic for calculations and interactivity
+└── assets/               # (Optional) Images or additional resources
 
 ➗ Example Operations
 Addition:
